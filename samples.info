@@ -1,0 +1,14 @@
+[
+	{
+		"entity": "Capex",
+		"namespace": "lowcodesample",
+		"file": "/home/user/projects/lowcodesample/db/data/lowcodesample-Capex.csv",
+		"isFixed": false
+	},
+	{
+		"entity": "Contractors",
+		"namespace": "lowcodesample",
+		"file": "/home/user/projects/lowcodesample/db/data/lowcodesample-Contractors.csv",
+		"isFixed": false
+	}
+]
